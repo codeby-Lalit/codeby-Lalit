@@ -70,6 +70,12 @@ I'm a **Full Stack & AI/ML Engineer** who turns raw problems into reliable, prod
   <img src="https://streak-stats.demolab.com/?user=codeby-Lalit&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codeby-Lalit/codeby-Lalit/output/github-contribution-grid-snake.gif" alt="GitHub contribution snake"/>
+</p>
+
 ## 🚀 Featured Projects
 
 <!-- BLOG-POST-LIST:START -->
