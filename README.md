@@ -16,7 +16,7 @@ I'm a **Full Stack & AI/ML Engineer** who turns raw problems into reliable, prod
 - 🔭 Currently building **bgmi-market** — a marketplace microservices backend on Cloudflare Workers
 - 🌱 Deepening my skills in **AI/ML engineering** and **system design**
 - 🧩 Strong **DSA** foundation — solving problems before writing code
-- 🧪 Data science, ML notebooks & experiments live on my research account: [**elegent786**](https://github.com/elegent786)
+- 🧪 Data science, ML notebooks & experiments live on my research account: [**heyy-elegent**](https://github.com/heyy-elegent)
 - 🎯 Open to opportunities & collaborations
 
 ## 🛠 Tech Stack
@@ -86,7 +86,7 @@ I'm a **Full Stack & AI/ML Engineer** who turns raw problems into reliable, prod
 
 <p>
   <a href="https://github.com/codeby-Lalit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://github.com/elegent786"><img src="https://img.shields.io/badge/Experiments%20Account-181717?style=for-the-badge&logo=github&logoColor=white" alt="Experiments account"/></a>
+  <a href="https://github.com/heyy-elegent"><img src="https://img.shields.io/badge/Experiments%20Account-181717?style=for-the-badge&logo=github&logoColor=white" alt="Experiments account"/></a>
   <a href="https://twitter.com/elegent_ig"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
   <a href="https://codeby-lalit.github.io/Rubiks-Cube-Pro/"><img src="https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:l4kushwaha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
