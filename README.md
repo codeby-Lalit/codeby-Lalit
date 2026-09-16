@@ -13,7 +13,7 @@
 
 I'm a **Full Stack & AI/ML Engineer** who turns raw problems into reliable, production-ready software. I love building web apps on modern edge platforms and automating away repetitive work.
 
-- 🔭 Currently building **bgmi-market** — a marketplace microservices backend on Cloudflare Workers
+- 🚀 Currently built **bgmi-market** — a marketplace microservices backend on Cloudflare Workers
 - 🌱 Deepening my skills in **AI/ML engineering** and **system design**
 - 🧩 Strong **DSA** foundation — solving problems before writing code
 - 🧪 Data science, ML notebooks & experiments live on my research account: [**heyy-elegent**](https://github.com/heyy-elegent)
